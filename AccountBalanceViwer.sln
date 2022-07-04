@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountBalanceViwer.API", "AccountBalanceViwer.API\AccountBalanceViwer.API.csproj", "{E9279996-2DDE-4599-BEC3-7B17BC3CDB57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountBalanceViwer.Data", "AccountBalanceViwer.Data\AccountBalanceViwer.Data.csproj", "{D77D7FA6-57A7-4278-867D-194C5BFDD390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountBalanceViwer.Business", "AccountBalanceViwer.Business\AccountBalanceViwer.Business.csproj", "{5A01E9E6-7026-4E29-A44B-297611CED078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountBalanceViwer.Common", "AccountBalanceViwer.Common\AccountBalanceViwer.Common.csproj", "{D5012EE5-05C7-47E6-89AC-78B767DC46BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9279996-2DDE-4599-BEC3-7B17BC3CDB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9279996-2DDE-4599-BEC3-7B17BC3CDB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9279996-2DDE-4599-BEC3-7B17BC3CDB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9279996-2DDE-4599-BEC3-7B17BC3CDB57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77D7FA6-57A7-4278-867D-194C5BFDD390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77D7FA6-57A7-4278-867D-194C5BFDD390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77D7FA6-57A7-4278-867D-194C5BFDD390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77D7FA6-57A7-4278-867D-194C5BFDD390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A01E9E6-7026-4E29-A44B-297611CED078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A01E9E6-7026-4E29-A44B-297611CED078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A01E9E6-7026-4E29-A44B-297611CED078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A01E9E6-7026-4E29-A44B-297611CED078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5012EE5-05C7-47E6-89AC-78B767DC46BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5012EE5-05C7-47E6-89AC-78B767DC46BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5012EE5-05C7-47E6-89AC-78B767DC46BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5012EE5-05C7-47E6-89AC-78B767DC46BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67C76F71-FD6B-44E7-AC3A-9F2EAFDC076D}
+	EndGlobalSection
+EndGlobal
